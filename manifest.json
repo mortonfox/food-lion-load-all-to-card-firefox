@@ -5,7 +5,7 @@
 
     "description": "Load all MVP coupons to card",
 
-    "action": {
+    "browser_action": {
         "default_title": "food_lion_load_all_to_card"
     },
 
